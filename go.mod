@@ -1,4 +1,4 @@
-module github.com/minio/minio
+module github.com/Davisanity/minio
 
 go 1.18
 
@@ -49,7 +49,7 @@ require (
 	github.com/minio/highwayhash v1.0.2
 	github.com/minio/kes v0.21.1
 	github.com/minio/madmin-go v1.6.6
-	github.com/minio/minio-go/v7 v7.0.43-0.20221021202758-c6319beb6b27
+	github.com/Davisanity/minio-go/v7 v7.0.43-0.20221021202758-c6319beb6b27
 	github.com/minio/pkg v1.5.4
 	github.com/minio/selfupdate v0.5.0
 	github.com/minio/sha256-simd v1.0.0
